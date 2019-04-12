@@ -31,11 +31,13 @@ export default {
   top: 40%;
   right: 40%;
 }
+
 .password {
   position: fixed;
   top: 47%;
   right: 40%;
 }
+
 .botton {
   position: fixed;
   top: 54%;
