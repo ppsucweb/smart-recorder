@@ -5,12 +5,7 @@
 <script>
 export default {
   name: 'iteminput',
-  props: ['placeholder'],
-  data() {
-    return {
-      user: '用户名'
-    }
-  }
+  props: ['placeholder']
 }
 </script>
 
