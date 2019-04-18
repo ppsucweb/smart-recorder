@@ -13,7 +13,7 @@ $select=mysqli_select_db($conn,'information');
 if ($select) {
 	 echo "success!";
 } else {
-	echo "failed!";
+	echo "failed!!";
 }
     $cr="create table ps(
     
