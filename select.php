@@ -34,7 +34,7 @@ if ($cs){
         echo "success!";
     }
     else{
-        "failed!";
+        "failed!!";
     }
     ?>
 
