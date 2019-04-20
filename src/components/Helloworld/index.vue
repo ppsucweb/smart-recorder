@@ -1,6 +1,6 @@
 <template>
   <div class="component">
-      这是hello world component
+    这是hello world
   </div>
 </template>
 
